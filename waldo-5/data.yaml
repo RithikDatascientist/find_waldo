@@ -1,0 +1,13 @@
+names:
+- waldo
+- waldorotation
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: waldo-ghwru
+  url: https://universe.roboflow.com/waldo-0jhbv/waldo-ghwru/dataset/5
+  version: 5
+  workspace: waldo-0jhbv
+test: ../test/images
+train: ../train/images
+val: ../valid/images

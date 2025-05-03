@@ -1,4 +1,5 @@
-waldo-5
+waldo-5/train
+waldo-5/valid
 # run
 data
 # prediction
